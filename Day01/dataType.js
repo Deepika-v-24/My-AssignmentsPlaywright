@@ -1,0 +1,10 @@
+var firstName = "deepika";
+console.log("the first name is " + firstName + " the type is " +typeof firstName );
+var companyName = "Cognizant";
+console.log("the company name is " + companyName + " the type is " +typeof companyName );
+var mobileNumber = 89056475321;
+console.log("the company name is " + mobileNumber + " the type is " +typeof mobileNumber );
+var isautomation = true;
+console.log("the automation is "  + isautomation +  " the type is " +typeof isautomation );
+var hasplaywright;
+console.log("the type is " +typeof hasplaywright);
